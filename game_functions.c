@@ -1,5 +1,5 @@
 /**
- * @file main.c
+ * @file game_functions.c
  * @brief Implementation of a simple Snake game for the Playdate handheld console.
  * @author Noah Törnqvist
  */
